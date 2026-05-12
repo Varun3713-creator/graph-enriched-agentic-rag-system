@@ -63,10 +63,6 @@ Once chunked, the documents are transformed into a **Directed Relationship Graph
 
 ### 1. Installation
 ```bash
-# Clone the repository
-git clone <repo-url>
-cd Final_project
-
 # Install dependencies
 pip install -r requirements.txt
 ```
